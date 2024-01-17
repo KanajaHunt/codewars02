@@ -23,4 +23,4 @@ const findAverage = function (nums) {
   }
 
 // optimized
-const findAverage = nums => nums.reduce((a,b) => a + b, 0) / nums.length;
+// const findAverage = nums => nums.reduce((a,b) => a + b, 0) / nums.length;
