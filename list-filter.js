@@ -11,4 +11,4 @@ function listInt(list){
 }
 
 // my solution - wrong and incomplete
-  return l.map((item) => item).filter((n) => n === Array.of(Number(n)));
+//   return l.map((item) => item).filter((n) => n === Array.of(Number(n)));
